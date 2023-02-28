@@ -1,3 +1,10 @@
+## LikhoAI - AI-based Content Generator 
+
+The project is developed using React.js and OpenAI API, making it a web-based tool that can be accessed by users through a web browser.
+The project is developed using React.js, which is a JavaScript library for building user interfaces. This choice of technology makes it easy to create a web-based tool that can be accessed by users through a web browser. The OpenAI API is used to generate the content and it is integrated with React.js to make it more user-friendly.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
